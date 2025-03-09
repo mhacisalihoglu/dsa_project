@@ -38,7 +38,7 @@ The primary dataset used in this project is sourced from the [Data.gov Diabetes 
 ├── scripts/                  # Python scripts for data processing
 ├── results/                  # Visualizations and analysis results
 ├── requirements.txt          # Dependencies for running the project
-└── README.md                 # Project documentation (this file)
+└── README.md                 # Project documentation 
 ```
 
 ## Getting Started
