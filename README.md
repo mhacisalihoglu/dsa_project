@@ -1,10 +1,10 @@
-# DSA210 Diabetes Data Analysis Project
+#Diabetes Data Analysis Project DSA210
 
 ## Overview
-This repository is created for the DSA210 project, focusing on diabetes-related data analysis. The project aims to explore trends in diabetes prevalence, patient demographics, and healthcare access using publicly available datasets.
+This repository is created for DSA210 project and focuses on diabetes-related data analysis. The project aims to explore trends in diabetes prevalence, patient demographics, and healthcare access using publicly available datasets.
 
 ## Dataset Information
-The primary dataset used in this project is sourced from the [Data.gov Diabetes Dataset](https://catalog.data.gov/dataset/diabetes). It contains de-identified insurance data for diabetes from three managed care organizations in Allegheny County (Gateway Health Plan, Highmark Health, and UPMC) and represents their insured population for the 2015 and 2016 calendar years.
+The [Data.gov Diabetes Dataset](https://catalog.data.gov/dataset/diabetes) is the source of the dataset utilized in this research. It represents the insured population for the 2015 and 2016 calendar years and includes de-identified diabetic insurance data from three managed care organizations in Allegheny County: Gateway Health Plan, Highmark Health, and UPMC.
 
 ### Data Sources:
 - **Diabetes 2015 Dataset** (`diabetes2015.csv`): Contains insurance claims data for diabetes patients in 2015.
@@ -41,14 +41,12 @@ The primary dataset used in this project is sourced from the [Data.gov Diabetes 
 └── README.md                 # Project documentation 
 ```
 
-## Getting Started
+
 ### Installation
-Clone this repository and install the necessary dependencies:
-```bash
 git clone https://github.com/mhacisalihoglu/dsa_project.git
 cd dsa_project
 pip install -r requirements.txt
-```
+
 
 ### Running the Analysis
 - Jupyter notebooks for exploratory data analysis and modeling can be found in the `notebooks/` directory.
