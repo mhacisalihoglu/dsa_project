@@ -1,4 +1,4 @@
-#Diabetes Data Analysis Project DSA210
+# Diabetes Data Analysis Project DSA210
 
 ## Overview
 This repository is created for DSA210 project and focuses on diabetes-related data analysis. The project aims to explore trends in diabetes prevalence, patient demographics, and healthcare access using publicly available datasets.
